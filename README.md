@@ -1,3 +1,8 @@
+👤 Autor
+Wesley Alvarenga
+
+Link do perfil: [https://github.com/Wsalvarengadev](https://github.com/Wsalvarengadev)
+
 # Desafio: Modelo de Domínio e ORM - Sistema de Eventos
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -42,4 +47,6 @@ Isso resultou nos seguintes relacionamentos principais:
 ### Passo a passo
 1. Clone o repositório:
 ```bash
-git clone https://github.com/Wsalvarengadev/desafio_ORM
+git clone [https://github.com/Wsalvarengadev/desafio_ORM](https://github.com/Wsalvarengadev/desafio_ORM)
+
+
